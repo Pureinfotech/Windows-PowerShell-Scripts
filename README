@@ -7,7 +7,7 @@ How to Use:
 Save this script on your computer as Rename-NetworkAdapter.ps1.
 
 Make sure that your computer can run PowerShell scripts.
-You can use this guide to complete the process: https://pureinfotech.com/change-execution-policy-run-scripts-powershell
+You can use this guide to complete the process: https://pureinfotech.com/change-execution-policy-run-scripts-powershell/#change_execution_policy_not_signed
 
 Run PowerShell as Administrator.
 Execute the script from the path you stored the file with this command: .\Rename-NetworkAdapter.ps1
