@@ -1,1 +1,0 @@
-# Windows-PowerShell-Scripts-Scripts-Network-AdapterRenamer
