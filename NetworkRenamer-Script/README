@@ -1,6 +1,8 @@
 This script allows you to rename the network adapters on Windows 11 and 10.
 Warning: This tool is offered as-is without any guarantee. 
 
+This script has been tested on Windows 11 23H2 and 24H2.
+
 How to Use:
 
 Save this script on your computer as Pureinfotech-Rename-NetworkAdapter.ps1.
@@ -11,3 +13,5 @@ You can use this guide to complete the process: https://pureinfotech.com/change-
 Run PowerShell as Administrator.
 Execute the script from the path you stored the file with this command: .\Pureinfotech-Rename-NetworkAdapter.ps1
 Follow the on-screen directions to change the name of your network adapters.
+
+Update: This is the first script that I'm sharing with other people. As such remember to leave a comment and share your experience.
