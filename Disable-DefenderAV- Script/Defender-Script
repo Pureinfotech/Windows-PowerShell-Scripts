@@ -1,0 +1,12 @@
+Full guide: https://pureinfotech.com/disable-defender-antivirus-permanently-windows-11/
+
+Information:
+This script is meant to disable the Microsoft Defender Antivirus on Windows 11, but only for those who understand the risks of performing this action. If you use this script, you can re-run it to re-enable the antivirus. This process also requires turning off the Tamper Protection feature, but it's something you have to perform manually, so the script will prompt you to disable the feature manually.
+
+Backup:
+This script is offered as-is. Use it at your own risk. It's assumed you know what you're doing and have created a backup before proceeding.
+
+Instructions:
+In order to use this script, you have to unzip the ".ps1" file, and then from PowerShell (admin), run the ".\disable-DefenderAV.ps1" command, and then follow the on-screen directions. If you cannot run the script, it's because the system is configured to block scripts. If this is the case, you will have to change the PowerShell execution policy temporarily with this command: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+ 
+After closing the PowerShell session, the execution policy will revert to its original stay to prevent other scripts from running. 
